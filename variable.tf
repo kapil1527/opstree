@@ -7,9 +7,9 @@ variable "image_id" {
 }
 
 variable "subnet_1" {
-  default = "subnet-88093187"
+  description = "subnet id"
 }
 
 variable "subnet_2" {
-  default = "subnet-3fdcca75"
+  description = "subnet-id"
 }
