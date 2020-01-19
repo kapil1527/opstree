@@ -1,5 +1,5 @@
 variable "cluster-name" {
-  default = "name of cluster"
+  default = "opstree"
 }
 
 variable "image_id" {
